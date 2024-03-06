@@ -10,8 +10,8 @@ const Contact = () => {
           <div className="c-info">
             <h2>Have Any Questions... ?</h2><br /><br></br>
             <h5><i className="fa fa-phone"></i> (+91) 8277547742<br /><br />
-            <i className="fa fa-map-marker"></i> Shahapur Belgaum Karnataka India.<br /><br />
-            <i className="fa fa-envelope"></i> bhagavantanavarKeerti@gmail.com<br /><br /><br /><br /><br /><br /><br /></h5>
+            <i className="fa fa-map-marker"></i> Belgaum Karnataka India.<br /><br />
+            <i className="fa fa-envelope"></i> jyotitarale2000@gmail.com<br /><br /><br /><br /><br /><br /><br /></h5>
             <hr />
           </div>
           <div className="contact">
