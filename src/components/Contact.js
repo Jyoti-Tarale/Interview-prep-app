@@ -9,7 +9,7 @@ const Contact = () => {
         <div className="wrapper">
           <div className="c-info">
             <h2>Have Any Questions... ?</h2><br /><br></br>
-            <h5><i className="fa fa-phone"></i> (+91) 8277547742<br /><br />
+            <h5><i className="fa fa-phone"></i> (+91) 8884693995<br /><br />
             <i className="fa fa-map-marker"></i> Belgaum Karnataka India.<br /><br />
             <i className="fa fa-envelope"></i> jyotitarale2000@gmail.com<br /><br /><br /><br /><br /><br /><br /></h5>
             <hr />
