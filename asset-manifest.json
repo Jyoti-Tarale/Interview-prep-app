@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Jyoti-Tarale/Interview-prep-app.git/static/css/main.458a48e1.css",
+    "main.js": "/Jyoti-Tarale/Interview-prep-app.git/static/js/main.ce619184.js",
+    "static/js/453.55849190.chunk.js": "/Jyoti-Tarale/Interview-prep-app.git/static/js/453.55849190.chunk.js",
+    "static/media/blu.jpg": "/Jyoti-Tarale/Interview-prep-app.git/static/media/blu.024e2de0fbea7cb29348.jpg",
+    "index.html": "/Jyoti-Tarale/Interview-prep-app.git/index.html",
+    "main.458a48e1.css.map": "/Jyoti-Tarale/Interview-prep-app.git/static/css/main.458a48e1.css.map",
+    "main.ce619184.js.map": "/Jyoti-Tarale/Interview-prep-app.git/static/js/main.ce619184.js.map",
+    "453.55849190.chunk.js.map": "/Jyoti-Tarale/Interview-prep-app.git/static/js/453.55849190.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.458a48e1.css",
+    "static/js/main.ce619184.js"
+  ]
+}
